@@ -1,6 +1,6 @@
 {
     "proj-name": {
-        "root": "./makerchip",
+        "root": "./makerchipSS",
         "thumb": "./thumb.gif",
         "thumbs": {
             "foo": "./diagram.svg"
